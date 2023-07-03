@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 struct producto{
     int codigo;
     char descripcion[50];
