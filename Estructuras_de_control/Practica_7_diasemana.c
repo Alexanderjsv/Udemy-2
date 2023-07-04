@@ -7,7 +7,7 @@ int main()
     scanf("%d",&dia);
 
     switch(dia){
-    case(1):
+    case (1):
         printf("Lunes");
         break;
     case(2):
